@@ -8,6 +8,22 @@ Windows builds and the Windows updater live only in the original repo: **[fullsp
 
 [![Release](https://img.shields.io/github/v/release/fullspb/SelectiveVpn-Linux?label=release)](https://github.com/fullspb/SelectiveVpn-Linux/releases/latest)
 
+<p align="center">
+  <img src="docs/screenshots/orbit-main.jpg" alt="SelectiveVpn Linux Orbit UI — main window" width="900">
+</p>
+
+## Screenshots
+
+### Main window
+
+![Orbit main window (Avalonia)](docs/screenshots/orbit-main.jpg)
+
+### Disconnected
+
+![Orbit main window, disconnected](docs/screenshots/orbit-disconnected.jpg)
+
+> Avalonia Orbit UI on Linux. Screenshots use local demo profiles and a redacted server field.
+
 ## Install
 
 Open the [latest Linux release](https://github.com/fullspb/SelectiveVpn-Linux/releases/latest).
